@@ -1,0 +1,148 @@
+*{
+            
+    margin: 0;
+    padding: 0;
+    
+    color: white;
+}
+/* .o1{
+    background-color: rgba(8, 7, 7, 0.59);
+    justify-content: center;
+    align-items: center;
+} */
+.box1{
+    height: 100vh;
+    width: 300px;
+    background-color: rgba(8, 7, 7, 0.59);
+    border-radius: 20px;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.box2{
+    background-color: rgba(8, 7, 7, 0.59);
+    width: 80vw;
+    height: 380px;
+    border-radius: 20px;
+    align-items: center;
+}
+.box3{
+    background-color: rgba(8, 7, 7, 0.59);
+    width: 80vw;
+    height: 380px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+.content3{
+    justify-content: center;
+    padding-left: 100px;
+    
+    
+}
+.tab{
+    font-size: 30px;
+    gap: 80px;
+    justify-content: center;
+    justify-content: space-between;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+.fab{
+
+}
+.p1{
+    
+}
+.k1{
+    justify-content: space-between;
+    margin: 50px 50px;
+}
+.content2{
+    display: flex;
+}
+
+.h1{
+    display: none;
+}
+.left{
+    background-color: rgba(241, 233, 233, 0);
+    flex: 1;
+    font-size: 25px;
+
+}
+.right{
+    background-color: rgba(218, 208, 208, 0);
+    flex: 30px;
+
+}
+.j1{
+    background-color: rgba(218, 208, 208, 0);
+
+}
+.f1{
+    align-content: center;
+    padding: 20px;
+    
+
+    
+}
+.a1{
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+}
+.c1{
+    background-color: rgba(218, 208, 208, 0);
+
+}
+.c2{
+    background-color: rgba(218, 208, 208, 0);
+}
+.bt1 {
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.bt2{
+    border-radius: 30px;
+    background-color: black;
+
+}
+.bt3{
+    border-radius: 30px;
+    background-color: black;
+}
+.button{
+    /* border: none; */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    /* text-decoration: none; */
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  
+}
+.img{
+    width: 350px;
+    height: 350px;
+    
+}
+.l1{
+    font-size: 30px;
+    
+}
